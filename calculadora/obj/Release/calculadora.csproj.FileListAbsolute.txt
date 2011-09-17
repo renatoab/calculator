@@ -1,0 +1,26 @@
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Release\ResolveAssemblyReference.cache
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Release\calculadora.Form1.resources
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Release\calculadora.Properties.Resources.resources
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Release\calculadora.csproj.GenerateResource.Cache
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\bin\Release\calculadora.exe
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\bin\Release\calculadora.pdb
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Release\calculadora.exe
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Release\calculadora.pdb
+C:\arquivos\programação\calculadora\calculadora\bin\Release\calculadora.exe
+C:\arquivos\programação\calculadora\calculadora\bin\Release\calculadora.pdb
+C:\arquivos\programação\calculadora\calculadora\obj\Release\ResolveAssemblyReference.cache
+C:\arquivos\programação\calculadora\calculadora\obj\Release\calculadora.Form1.resources
+C:\arquivos\programação\calculadora\calculadora\obj\Release\calculadora.Properties.Resources.resources
+C:\arquivos\programação\calculadora\calculadora\obj\Release\calculadora.csproj.GenerateResource.Cache
+C:\arquivos\programação\calculadora\calculadora\obj\Release\calculadora.exe
+C:\arquivos\programação\calculadora\calculadora\obj\Release\calculadora.pdb
+C:\arquivos\programação\calculadora\calculadora\bin\Release\calculadora.exe.config
+C:\projetos\calculadora\calculadora\bin\Release\calculadora.exe.config
+C:\projetos\calculadora\calculadora\bin\Release\calculadora.exe
+C:\projetos\calculadora\calculadora\bin\Release\calculadora.pdb
+C:\projetos\calculadora\calculadora\obj\Release\ResolveAssemblyReference.cache
+C:\projetos\calculadora\calculadora\obj\Release\calculadora.Form1.resources
+C:\projetos\calculadora\calculadora\obj\Release\calculadora.Properties.Resources.resources
+C:\projetos\calculadora\calculadora\obj\Release\calculadora.csproj.GenerateResource.Cache
+C:\projetos\calculadora\calculadora\obj\Release\calculadora.exe
+C:\projetos\calculadora\calculadora\obj\Release\calculadora.pdb

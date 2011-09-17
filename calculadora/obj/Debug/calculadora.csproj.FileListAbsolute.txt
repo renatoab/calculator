@@ -1,0 +1,20 @@
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.exe
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.pdb
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.exe
+C:\Users\renato\AppData\Local\Temporary Projects\calculadora\obj\Debug\calculadora.pdb
+C:\arquivos\programação\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\arquivos\programação\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\arquivos\programação\calculadora\calculadora\obj\Debug\ResolveAssemblyReference.cache
+C:\arquivos\programação\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\arquivos\programação\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\arquivos\programação\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\arquivos\programação\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\arquivos\programação\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\arquivos\programação\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\projetos\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\projetos\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\projetos\calculadora\calculadora\obj\Debug\calculadora.pdb
