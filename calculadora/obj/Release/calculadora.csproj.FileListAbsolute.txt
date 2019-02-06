@@ -24,3 +24,12 @@ C:\projetos\calculadora\calculadora\obj\Release\calculadora.Properties.Resources
 C:\projetos\calculadora\calculadora\obj\Release\calculadora.csproj.GenerateResource.Cache
 C:\projetos\calculadora\calculadora\obj\Release\calculadora.exe
 C:\projetos\calculadora\calculadora\obj\Release\calculadora.pdb
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\bin\Release\calculadora.exe.config
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\bin\Release\calculadora.exe
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\bin\Release\calculadora.pdb
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\obj\Release\calculadora.Form1.resources
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\obj\Release\calculadora.Properties.Resources.resources
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\obj\Release\calculadora.csproj.GenerateResource.Cache
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\obj\Release\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\obj\Release\calculadora.exe
+C:\Users\Renato\Google Drive\programacao\calculator\calculadora\obj\Release\calculadora.pdb

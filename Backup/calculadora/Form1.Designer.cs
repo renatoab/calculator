@@ -55,7 +55,7 @@
             // textBoxCalcOut
             // 
             this.textBoxCalcOut.AutoWordSelection = true;
-            this.textBoxCalcOut.BackColor = System.Drawing.SystemColors.Window;
+            this.textBoxCalcOut.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.textBoxCalcOut.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCalcOut.Location = new System.Drawing.Point(3, 53);
             this.textBoxCalcOut.Name = "textBoxCalcOut";
@@ -103,7 +103,7 @@
             this.labelVersion.Name = "labelVersion";
             this.labelVersion.Size = new System.Drawing.Size(43, 16);
             this.labelVersion.TabIndex = 4;
-            this.labelVersion.Text = "V 6.1";
+            this.labelVersion.Text = "V 6.0";
             // 
             // checkBoxAddClipboard
             // 
@@ -127,9 +127,9 @@
             this.textBoxUnitIn.TabIndex = 2;
             this.textBoxUnitIn.Text = "";
             this.textBoxUnitIn.Visible = false;
-            this.textBoxUnitIn.TextChanged += new System.EventHandler(this.textBoxUnitIn_TextChanged);
             this.textBoxUnitIn.Enter += new System.EventHandler(this.textBoxUnitIn_Enter);
             this.textBoxUnitIn.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBoxUnit_KeyUp);
+            this.textBoxUnitIn.TextChanged += new System.EventHandler(this.textBoxUnitIn_TextChanged);
             // 
             // textBoxUnitOut
             // 
@@ -142,9 +142,9 @@
             this.textBoxUnitOut.TabIndex = 3;
             this.textBoxUnitOut.Text = "";
             this.textBoxUnitOut.Visible = false;
-            this.textBoxUnitOut.TextChanged += new System.EventHandler(this.textBoxUnitOut_TextChanged);
             this.textBoxUnitOut.Enter += new System.EventHandler(this.textBoxUnitOut_Enter);
             this.textBoxUnitOut.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBoxUnit_KeyUp);
+            this.textBoxUnitOut.TextChanged += new System.EventHandler(this.textBoxUnitOut_TextChanged);
             // 
             // Form1
             // 
